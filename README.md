@@ -19,5 +19,5 @@ Different classes identified in the HTML code, with the same properties, were co
 
 <img src="Assets/Screenshot of CSS Code.PNG">
 
-
-
+SUMMARY:
+The webpage was improved in terms of its coding and, mainly, its <b>accessibility</B>, without making any changes to the original code pulled from Gitlab.
