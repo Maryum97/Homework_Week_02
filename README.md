@@ -10,7 +10,7 @@ This repository contains the very first homework assignment for the Coding Bootc
 The main homework files contained index.html and styles.css. A number of changes were made in the code locally on VSC. Those changes are listed below for each of HTML and CSS.
 
 <i>HTML:</i> 
-Different semantic tags were integrated in the HTML code, in order to improve the outlook of the code and website, including the following:
+Different semantic tags were integrated in the HTML code, in order to improve the outlook of the code and accessibility of the website, including the following:
 1. Added <header> "header" tag for title and navigation links
 2. Added <footer> "footer" tag for website credits
 
