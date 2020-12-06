@@ -1,4 +1,4 @@
-# Homework_Week_02
+# Homework_Week_02_Code_Refactor
 
 <b>TITLE:</b> 01 HTML CSS Git: Code Refactor
 
