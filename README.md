@@ -5,7 +5,7 @@
 <b>DESCRIPTION:</b>
 This repository contains the very first homework assignment for the Coding Bootcamp conducted by the University of Birmingham. This homeworkk assignment was about refactoring an already existing code for the website linked below:
 
-<a href="https://maryum97.github.io/Homework_Week_02_Code_Refactor/homework.html">Horiseon Website</a>
+<a href="https://maryum97.github.io/Homework_Week_02_Code_Refactor/">Horiseon Website</a>
 
 The main homework files contained index.html and styles.css. A number of changes were made in the code locally on VSC. Those changes are listed below for each of HTML and CSS.
 
